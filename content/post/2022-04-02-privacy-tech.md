@@ -14,7 +14,7 @@ A few years ago I read Tim Wu's excellent book, [The Attention Merchants](https:
 
 ### Brave Browser
 
-![brave-logo](../../static/2022-04-02-brave.jpg)
+![brave-logo](/images/2022-04-02-brave.jpg)
 
 We use [Brave](https://brave.com/) as the primary browser on all of our devices. It blocks ads and trackers directly in the browser, and generally just works out of the box as a drop-in replacement for Chrome.
 
@@ -22,13 +22,13 @@ We use [Brave](https://brave.com/) as the primary browser on all of our devices.
 
 I run [AdGuard Home](https://github.com/AdguardTeam/AdguardHome) in a container as the local DNS server for our LAN. It blocks ads and trackers at the DNS level, and configuring it with just four blocklists causes 25-30% of our network's DNS queries to be blocked, _without breaking anything_. As a bonus it also blocks adult content.
 
-![AdGuard stats](../../static/2022-04-02-adguard-stats.png)
+![AdGuard stats](/images/2022-04-02-adguard-stats.png)
 
-### Canadian Shied / Quad9
+### Canadian Shield / Quad9
 
 <p float="left">
-  <img src="../../static/2022-04-02-canadian-shield.png" width="100" />
-  <img src="../../static/2022-04-02-quad9.svg" width="200" /> 
+  <img src="/images/2022-04-02-canadian-shield.png" width="100" />
+  <img src="/images/2022-04-02-quad9.svg" width="200" /> 
 </p>
 
 We use both CIRA's [Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) and [Quad9](https://quad9.net/) as upstream DNS providers. Both provide protection against known malicious domains, while supporting encrypted DNS-over-TLS to keep our DNS queries private from our ISP.
@@ -37,6 +37,6 @@ I also wrote a custom configuration for our iOS devices so that they use Canadia
 
 ### Wireguard
 
-![wireguard](../../static/2022-04-02-wireguard.png)
+![wireguard](/images/2022-04-02-wireguard.png)
 
 When I'm traveling and need to connect to some dodgy wifi (which is admittedly not too often lately), I use Wireguard to make a VPN connection back to our home LAN. I've got profiles deployed on our phones and laptops, and it also just works. It also provided a handy workaround when my son was having trouble getting Stardew Valley's multiplayer mode to work with his cousin. Virual LAN party FTW!
