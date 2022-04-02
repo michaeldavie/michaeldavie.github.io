@@ -4,7 +4,7 @@ title:      "Setting up a blog"
 subtitle:   "It's surprisingly simple!"
 date:       2022-04-02
 author:     "Michael Davie"
-URL:        "/2022/04/02/hello-world/"
+URL:        "/hello-world/"
 image:      ""
 ---
 

@@ -4,7 +4,7 @@ title:      "Privacy Technologies I Use"
 subtitle:   "What we use at home"
 date:       2022-04-02
 author:     "Michael Davie"
-URL:        "/2022/04/02/privacy-technologies/"
+URL:        "/privacy-technologies/"
 image:      ""
 ---
 
@@ -27,8 +27,8 @@ I run [AdGuard Home](https://github.com/AdguardTeam/AdguardHome) in a container 
 ### Canadian Shield / Quad9
 
 <p float="left">
-  <img src="/images/2022-04-02-canadian-shield.png" width="100" />
-  <img src="/images/2022-04-02-quad9.svg" width="200" /> 
+  <img src="../images/2022-04-02-canadian-shield.png" width="100" />
+  <img src="../images/2022-04-02-quad9.svg" width="200" /> 
 </p>
 
 We use both CIRA's [Canadian Shield](https://www.cira.ca/cybersecurity-services/canadian-shield) and [Quad9](https://quad9.net/) as upstream DNS providers. Both provide protection against known malicious domains, while supporting encrypted DNS-over-TLS to keep our DNS queries private from our ISP.
