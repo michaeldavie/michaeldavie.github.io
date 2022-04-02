@@ -14,7 +14,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/home-bg-jeep.jpg"
-  SEOTitle = Michael Davie Blog"
+  SEOTitle = "Michael Davie Blog"
   description = ""
   keyword = ""
   slogan = ""
