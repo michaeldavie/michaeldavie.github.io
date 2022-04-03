@@ -1,11 +1,8 @@
 ---
 layout:     post 
 title:      "Setting up a blog"
-subtitle:   "It's surprisingly simple!"
 date:       2022-04-02
 author:     "Michael Davie"
-URL:        "/hello-world/"
-image:      ""
 ---
 
 ## Setting up a blog
