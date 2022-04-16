@@ -42,6 +42,6 @@ Amazon Photos is the primary interface through which we interact with our photos
 
 A couple notes on what we're not using:
 
-- We don't use Apple's native photo management system, mainly because it's opaque and proprietary. I definitely having photos in a normal file system that I can organize.
-- We're not using Amazon Photos's automatic upload feature to push from our phones straight into the cloud, because we don't want to automatically keep absolutely everything.
+- We don't use Apple's native photo management system, mainly because it's opaque and proprietary. I definitely prefer having photos in a normal file system that I can organize.
+- We're not using Amazon Photos's automatic upload feature to push from our phones straight into the cloud, because we don't want to automatically keep absolutely everything. I also like to have a copy on the MacBook to pull them into the backups.
 - We previously used Google Photos, and its search was pretty incredible. However, Amazon Photos was clearly the better option for us once Google updated their pricing.
