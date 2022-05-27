@@ -30,7 +30,9 @@ We use both CIRA's [Canadian Shield](https://www.cira.ca/cybersecurity-services/
 
 I also wrote a custom configuration for our iOS devices so that they use Canadian Shield via DNS-over-TLS whenever they're not connected to our home wifi. I've published a copy as a [gist](https://gist.github.com/michaeldavie/d78e3fa6268c88c4ead093f757016309); just plug in your local SSID and [install the config](https://support.apple.com/en-ca/HT209435) on your devices if you'd like to do the same.
 
-If you're a more normal person who doesn't run a local DNS server at home, Paul Miller has also [published](https://github.com/paulmillr/encrypted-dns) profiles that will enforce encrypted DNS on your iOS and macOS devices, including for Canadian Shield (contributed by me!).
+If you're a more normal person who doesn't run a local DNS server at home:
+- You can configure Canadian Shield as the DNS server [on your home router](https://www.cira.ca/cybersecurity-services/canadian-shield/configure), which will protect your whole LAN.
+-  Paul Miller has published [configuration profiles](https://github.com/paulmillr/encrypted-dns) that will enforce encrypted DNS on your iOS and macOS devices, including for Canadian Shield (contributed by me!).
 
 ### Wireguard
 
