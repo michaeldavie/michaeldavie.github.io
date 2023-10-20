@@ -35,4 +35,4 @@ The basic flow of the pipeline is as follows:
 
 And here's the rendered output in GIF form:
 
-![steaming-tea](images/steaming-tea.gif)
+![steaming-tea](images/steamy-tea.gif)
