@@ -36,3 +36,5 @@ The basic flow of the pipeline is as follows:
 And here's the rendered output in GIF form:
 
 ![steaming-tea](images/steamy-tea.gif)
+
+The code for this project is availabe on [Github](https://github.com/michaeldavie/rendering-pipeline).
