@@ -45,6 +45,12 @@ This is the situation I’m currently facing with my 2022 return, which was reas
 
 I’ll update this post as things progress.
 
+### Update
+
+> We changed your return to allow the objection in full.
+
+Success! CRA reassessed my 2022 return in September 2024 and issued me a refund of $2,605, including $290 in adjustments to arrears and interest that had been assessed previously.
+
 ### References
 
 #### Veterans Affairs Canada – Education and Training Benefit
