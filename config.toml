@@ -35,7 +35,6 @@ home = ["HTML"]
   rss            = false
   linkedin       = "https://www.linkedin.com/in/michael-davie-peng"
   github         = "https://github.com/michaeldavie"
-  keybase       = "https://keybase.io/michaeldavie"
     
 [markup]
   [markup.tableOfContents]
