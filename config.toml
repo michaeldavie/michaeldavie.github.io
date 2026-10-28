@@ -1,7 +1,7 @@
-baseurl = "https://michaeldavie.github.io"
+baseurl = "https://blog.michaeldavie.ca/"
 title = "Michael Davie's Blog"
 theme = "hugo-theme-cleanwhite"
-languageCode = "en-us"
+locale = "en-us"
 preserveTaxonomyNames = true
 # paginate = 5 #frontpage pagination - deprecated in Hugo v0.128.0
 
